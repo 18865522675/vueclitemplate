@@ -1,0 +1,10 @@
+{
+    "apiServer": "http://115.239.255.216:818/api/v1",
+    "staticServer": "http://115.239.255.216:818",
+    "sessionStoragePrefix": "kefang_admin",
+    "comment": {
+        "apiServer": "请求后台地址的地址，默认自带api",
+        "staticServer": "静态服务器地址，可直接使用",
+        "sessionStorageKey": "sessionStorage前缀"
+    }
+}
